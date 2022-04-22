@@ -1,0 +1,10 @@
+{
+  "name": "scrapingcraigslist",
+  "version": "0.0.1",
+  "description": "Scraping a website, looping and saving data to JSON",
+  "author": "ME",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.53.0"
+  }
+}
